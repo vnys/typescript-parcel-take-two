@@ -9,7 +9,6 @@
     "@types/react-dom": "^16.9.8",
     "parcel": "^2.0.0-alpha.3.2",
     "rimraf": "^3.0.2",
-    "source-map-loader": "^0.2.4",
     "typescript": "^3.9.2"
   },
   "dependencies": {
